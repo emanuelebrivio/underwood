@@ -30,3 +30,8 @@ node_modules
 # OS specifics
 .DS_Store
 Thumbs.db
+
+
+# Underwood
+*.css
+*.html
