@@ -7,11 +7,15 @@
 
 ##Setup
 
+    # Install all dependencies without any global modules
+    npm install
 
 ---
 
 ##Usage
 
+    # Simply run this script and open browser on port 2016
+    npm run dev
 
 ---
 
