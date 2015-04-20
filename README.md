@@ -5,12 +5,23 @@
 
 ---
 
+##Setup
+
+
+---
+
+##Usage
+
+
+---
+
+##Details
+
 **Technologies**  
 
 - Jade
 - Stylus
 
----
 
 **Core**
 
@@ -18,7 +29,6 @@
 - PureCSS.io *with responsive grids*
 - Google Font Open Sans
 
----
 
 **Compiler**
 
