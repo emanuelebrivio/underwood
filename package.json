@@ -1,0 +1,26 @@
+{
+  "name": "underwood",
+  "version": "1.0.0",
+  "description": "Fast and easy simple sites maker.",
+  "scripts": {
+    "dev": "sh ./bin/livecompile.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emanuelebrivio/underwood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelebrivio/underwood/issues"
+  },
+  "homepage": "https://github.com/emanuelebrivio/underwood",
+  "dependencies": {
+    "jade": "^1.9.2",
+    "marked": "^0.3.3",
+    "nib": "^1.1.0",
+    "node-static": "^0.7.6",
+    "nodemon": "^1.3.7",
+    "stylus": "^0.50.0"
+  }
+}
